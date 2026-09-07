@@ -1,0 +1,1094 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/49szi4",
+    "id": "49szi4",
+    "slide": 5,
+    "layoutId": "539206da-4a4f-46ab-86bf-361ff0566d36",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "7ef65b4b-da45-45ac-9798-0f30afa4b94b",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "539206da-4a4f-46ab-86bf-361ff0566d36",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "7ef65b4b-da45-45ac-9798-0f30afa4b94b",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "7ef65b4b-da45-45ac-9798-0f30afa4b94b",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jm1cfa9w",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFF8F1",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c7u54zid",
+      "id": "2",
+      "bbox": [
+        64,
+        50,
+        760,
+        46
+      ],
+      "geometry": "rect",
+      "text": "政策与研究意义：从服务供给到闭环治理",
+      "textPreview": "政策与研究意义：从服务供给到闭环治理",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 32,
+        "typeface": "Microsoft YaHei",
+        "color": "#17212B",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 5,
+          "bottom": 4,
+          "left": 5
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "政策与研究意义：从服务供给到闭环治理"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "政策与研究意义：从服务供给到闭环治理",
+          "resolvedTextStyle": {
+            "fontSize": 32,
+            "typeface": "Microsoft YaHei",
+            "color": "#17212B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "政策与研究意义：从服务供给到闭环治理",
+              "fontSize": 32,
+              "typeface": "Microsoft YaHei",
+              "color": "#17212B",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1orytsvu",
+      "id": "3",
+      "bbox": [
+        82,
+        168,
+        342,
+        186
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D9E2E7",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u9knih4b",
+      "id": "4",
+      "bbox": [
+        82,
+        168,
+        342,
+        10
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C38",
+      "lineColor": "#F28C38",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/judg7ads",
+      "id": "5",
+      "bbox": [
+        104,
+        196,
+        296,
+        54
+      ],
+      "geometry": "rect",
+      "text": "“十四五”国家老龄事业发展和养老服务体系规划",
+      "textPreview": "“十四五”国家老龄事业发展和养老服务体系规划",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Microsoft YaHei",
+        "color": "#17212B",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 5,
+          "bottom": 4,
+          "left": 5
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "“十四五”国家老龄事业发展"
+          },
+          {
+            "index": 2,
+            "text": "和养老服务体系规划"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "“十四五”国家老龄事业发展和养老服务体系规划",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Microsoft YaHei",
+            "color": "#17212B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "“十四五”国家老龄事业发展和养老服务体系规划",
+              "fontSize": 21,
+              "typeface": "Microsoft YaHei",
+              "color": "#17212B",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cfa9w3m9",
+      "id": "6",
+      "bbox": [
+        104,
+        268,
+        288,
+        58
+      ],
+      "geometry": "rect",
+      "text": "健全居家、社区、机构相协调，医养康养相结合的养老服务体系。",
+      "textPreview": "健全居家、社区、机构相协调，医养康养相结合的养老服务体系。",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "Microsoft YaHei",
+        "color": "#61707F",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 5,
+          "bottom": 4,
+          "left": 5
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "健全居家、社区、机构相协调，医养"
+          },
+          {
+            "index": 2,
+            "text": "康养相结合的养老服务体系。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "健全居家、社区、机构相协调，医养康养相结合的养老服务体系。",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Microsoft YaHei",
+            "color": "#61707F",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "健全居家、社区、机构相协调，医养康养相结合的养老服务体系。",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#61707F"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1032lszq",
+      "id": "7",
+      "bbox": [
+        469,
+        168,
+        342,
+        186
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D9E2E7",
+      "lineWidth": 1
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/udg7adsj",
+      "id": "8",
+      "bbox": [
+        469,
+        168,
+        342,
+        10
+      ],
+      "geometry": "rect",
+      "fillColor": "#287C9F",
+      "lineColor": "#287C9F",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nyd0z610",
+      "id": "9",
+      "bbox": [
+        491,
+        196,
+        296,
+        54
+      ],
+      "geometry": "rect",
+      "text": "关于发展银发经济增进老年人福祉的意见",
+      "textPreview": "关于发展银发经济增进老年人福祉的意见",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Microsoft YaHei",
+        "color": "#17212B",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 5,
+          "bottom": 4,
+          "left": 5
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "关于发展银发经济增进老年人"
+          },
+          {
+            "index": 2,
+            "text": "福祉的意见"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "关于发展银发经济增进老年人福祉的意见",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Microsoft YaHei",
+            "color": "#17212B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "关于发展银发经济增进老年人福祉的意见",
+              "fontSize": 21,
+              "typeface": "Microsoft YaHei",
+              "color": "#17212B",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v6psfil0",
+      "id": "10",
+      "bbox": [
+        491,
+        268,
+        288,
+        58
+      ],
+      "geometry": "rect",
+      "text": "培育高质量养老服务模式，推进养老服务提质扩容。",
+      "textPreview": "培育高质量养老服务模式，推进养老服务提质扩容。",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "Microsoft YaHei",
+        "color": "#61707F",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 5,
+          "bottom": 4,
+          "left": 5
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "培育高质量养老服务模式，推进养老"
+          },
+          {
+            "index": 2,
+            "text": "服务提质扩容。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "培育高质量养老服务模式，推进养老服务提质扩容。",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Microsoft YaHei",
+            "color": "#61707F",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "培育高质量养老服务模式，推进养老服务提质扩容。",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#61707F"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lszqtcj",
+      "id": "11",
+      "bbox": [
+        856,
+        168,
+        342,
+        186
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D9E2E7",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d8bat47y",
+      "id": "12",
+      "bbox": [
+        856,
+        168,
+        342,
+        10
+      ],
+      "geometry": "rect",
+      "fillColor": "#4F9D7A",
+      "lineColor": "#4F9D7A",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/knih4byh",
+      "id": "13",
+      "bbox": [
+        878,
+        196,
+        296,
+        54
+      ],
+      "geometry": "rect",
+      "text": "深化养老服务改革发展的意见",
+      "textPreview": "深化养老服务改革发展的意见",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Microsoft YaHei",
+        "color": "#17212B",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 5,
+          "bottom": 4,
+          "left": 5
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "深化养老服务改革发展的意见"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "深化养老服务改革发展的意见",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Microsoft YaHei",
+            "color": "#17212B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "深化养老服务改革发展的意见",
+              "fontSize": 21,
+              "typeface": "Microsoft YaHei",
+              "color": "#17212B",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vu9knih4",
+      "id": "14",
+      "bbox": [
+        878,
+        268,
+        288,
+        58
+      ],
+      "geometry": "rect",
+      "text": "完善养老服务网络，增强服务供给能力。",
+      "textPreview": "完善养老服务网络，增强服务供给能力。",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "Microsoft YaHei",
+        "color": "#61707F",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 5,
+          "bottom": 4,
+          "left": 5
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "完善养老服务网络，增强服务供给能"
+          },
+          {
+            "index": 2,
+            "text": "力。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "完善养老服务网络，增强服务供给能力。",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Microsoft YaHei",
+            "color": "#61707F",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "完善养老服务网络，增强服务供给能力。",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#61707F"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/29gr2p8n",
+      "id": "15",
+      "bbox": [
+        148,
+        440,
+        132,
+        132
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#F28C38",
+      "lineColor": "#F28C38",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d0z61032",
+      "id": "16",
+      "bbox": [
+        159,
+        480,
+        110,
+        48
+      ],
+      "geometry": "rect",
+      "text": "整合多方主体",
+      "textPreview": "整合多方主体",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 5,
+          "bottom": 4,
+          "left": 5
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "整合多方主"
+          },
+          {
+            "index": 2,
+            "text": "体"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "整合多方主体",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "整合多方主体",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kf6dcbul",
+      "id": "17",
+      "bbox": [
+        388,
+        440,
+        132,
+        132
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#287C9F",
+      "lineColor": "#287C9F",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vixczed8",
+      "id": "18",
+      "bbox": [
+        399,
+        480,
+        110,
+        48
+      ],
+      "geometry": "rect",
+      "text": "实现闭环管理",
+      "textPreview": "实现闭环管理",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 5,
+          "bottom": 4,
+          "left": 5
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "实现闭环管"
+          },
+          {
+            "index": 2,
+            "text": "理"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "实现闭环管理",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "实现闭环管理",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2x4nap4r",
+      "id": "19",
+      "bbox": [
+        628,
+        440,
+        132,
+        132
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#4F9D7A",
+      "lineColor": "#4F9D7A",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ex0nuxc3",
+      "id": "20",
+      "bbox": [
+        639,
+        480,
+        110,
+        48
+      ],
+      "geometry": "rect",
+      "text": "提升服务效率",
+      "textPreview": "提升服务效率",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 5,
+          "bottom": 4,
+          "left": 5
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "提升服务效"
+          },
+          {
+            "index": 2,
+            "text": "率"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "提升服务效率",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "提升服务效率",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3itgfmlk",
+      "id": "21",
+      "bbox": [
+        868,
+        440,
+        132,
+        132
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#F28C38",
+      "lineColor": "#F28C38",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w3m94fu1",
+      "id": "22",
+      "bbox": [
+        879,
+        480,
+        110,
+        48
+      ],
+      "geometry": "rect",
+      "text": "数据辅助决策",
+      "textPreview": "数据辅助决策",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 5,
+          "bottom": 4,
+          "left": 5
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "数据辅助决"
+          },
+          {
+            "index": 2,
+            "text": "策"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "数据辅助决策",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "数据辅助决策",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/loj2t83i",
+      "id": "23",
+      "bbox": [
+        160,
+        620,
+        960,
+        40
+      ],
+      "geometry": "rect",
+      "text": "课题价值：让养老服务从“人工协调”转向“平台协同 + 数据留痕 + 管理可追踪”。",
+      "textPreview": "课题价值：让养老服务从“人工协调”转向“平台协同 + 数据留痕 + 管理可追踪”。",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "color": "#17212B",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 5,
+          "bottom": 4,
+          "left": 5
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "课题价值：让养老服务从“人工协调”转向“平台协同 + 数据留痕 + 管理可追踪”。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "课题价值：让养老服务从“人工协调”转向“平台协同 + 数据留痕 + 管理可追踪”。",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#17212B",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "课题价值：让养老服务从“人工协调”转向“平台协同 + 数据留痕 + 管理可追踪”。",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#17212B",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

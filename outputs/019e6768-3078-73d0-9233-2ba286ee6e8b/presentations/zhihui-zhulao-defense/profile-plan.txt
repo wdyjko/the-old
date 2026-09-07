@@ -1,0 +1,8 @@
+﻿Task mode: create
+Primary deck-profile: product-platform
+Secondary profile gates: academic graduation defense; concise thesis evidence; readable Chinese typography.
+Required proof objects: closed-loop workflow; three-role platform map; technical architecture; database core model; testing coverage table; innovation and future roadmap.
+Source/asset requirements: use the provided Markdown outline as canonical content; no external metrics invented. If UI screenshots are unavailable, use schematic editable mock panels rather than pretending screenshots.
+Brand authenticity constraints: school/project identity via text only; no fabricated school logo.
+Profile-specific QA gates: each slide has a clear claim, concrete proof object, and readable Chinese labels; diagrams encode real platform roles and state transitions.
+Known missing inputs: actual system screenshots were not supplied; deck uses stylized interface schematics.

@@ -1,0 +1,783 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/r701mn",
+    "id": "r701mn",
+    "slide": 8,
+    "layoutId": "539206da-4a4f-46ab-86bf-361ff0566d36",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "7ef65b4b-da45-45ac-9798-0f30afa4b94b",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "539206da-4a4f-46ab-86bf-361ff0566d36",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "7ef65b4b-da45-45ac-9798-0f30afa4b94b",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "7ef65b4b-da45-45ac-9798-0f30afa4b94b",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n29gr2p8",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFF8F1",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gn29gr2p",
+      "id": "2",
+      "bbox": [
+        64,
+        48,
+        800,
+        46
+      ],
+      "geometry": "rect",
+      "text": "系统架构：表现层、业务层、数据层清晰分工",
+      "textPreview": "系统架构：表现层、业务层、数据层清晰分工",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 32,
+        "typeface": "Microsoft YaHei",
+        "color": "#17212B",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 6,
+          "bottom": 4,
+          "left": 6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "系统架构：表现层、业务层、数据层清晰分工"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "系统架构：表现层、业务层、数据层清晰分工",
+          "resolvedTextStyle": {
+            "fontSize": 32,
+            "typeface": "Microsoft YaHei",
+            "color": "#17212B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "系统架构：表现层、业务层、数据层清晰分工",
+              "fontSize": 32,
+              "typeface": "Microsoft YaHei",
+              "color": "#17212B",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58z25kb6",
+      "id": "3",
+      "bbox": [
+        220,
+        150,
+        840,
+        112
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#F28C38",
+      "lineWidth": 2
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y90je9cv",
+      "id": "4",
+      "bbox": [
+        238,
+        166,
+        804,
+        28
+      ],
+      "geometry": "rect",
+      "text": "表现层 Presentation",
+      "textPreview": "表现层 Presentation",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "color": "#F28C38",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 6,
+          "bottom": 4,
+          "left": 6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "表现层 Presentation"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "表现层 Presentation",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#F28C38",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "表现层 Presentation",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#F28C38",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nuxc3ylc",
+      "id": "5",
+      "bbox": [
+        242,
+        206,
+        796,
+        40
+      ],
+      "geometry": "rect",
+      "text": "React + TypeScript + Ant Design\n老人/家属端 | 志愿者端 | 管理端",
+      "textPreview": "React + TypeScript + Ant Design | 老人/家属端 | 志愿者端 | 管理端",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "Microsoft YaHei",
+        "color": "#61707F",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 6,
+          "bottom": 4,
+          "left": 6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "React + TypeScript + Ant Design"
+          },
+          {
+            "index": 2,
+            "text": "老人/家属端 | 志愿者端 | 管理端"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "React + TypeScript + Ant Design",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Microsoft YaHei",
+            "color": "#61707F",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "React + TypeScript + Ant Design",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#61707F"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "老人/家属端 | 志愿者端 | 管理端",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Microsoft YaHei",
+            "color": "#61707F",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "老人/家属端 | 志愿者端 | 管理端",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#61707F"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gbq1oryt",
+      "id": "6",
+      "bbox": [
+        220,
+        318,
+        840,
+        112
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#287C9F",
+      "lineWidth": 2
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5wjudg7a",
+      "id": "7",
+      "bbox": [
+        238,
+        334,
+        804,
+        28
+      ],
+      "geometry": "rect",
+      "text": "业务层 Business",
+      "textPreview": "业务层 Business",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "color": "#287C9F",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 6,
+          "bottom": 4,
+          "left": 6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "业务层 Business"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "业务层 Business",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#287C9F",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "业务层 Business",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#287C9F",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u54zidon",
+      "id": "8",
+      "bbox": [
+        242,
+        374,
+        796,
+        40
+      ],
+      "geometry": "rect",
+      "text": "Node.js + Express + Socket.io\n认证授权 | 需求管控 | 订单流转 | 实时聊天",
+      "textPreview": "Node.js + Express + Socket.io | 认证授权 | 需求管控 | 订单流转 | 实时聊天",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "Microsoft YaHei",
+        "color": "#61707F",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 6,
+          "bottom": 4,
+          "left": 6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Node.js + Express + Socket.io"
+          },
+          {
+            "index": 2,
+            "text": "认证授权 | 需求管控 | 订单流转 | 实时聊天"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Node.js + Express + Socket.io",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Microsoft YaHei",
+            "color": "#61707F",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Node.js + Express + Socket.io",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#61707F"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "认证授权 | 需求管控 | 订单流转 | 实时聊天",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Microsoft YaHei",
+            "color": "#61707F",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "认证授权 | 需求管控 | 订单流转 | 实时聊天",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#61707F"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nqxs72x4",
+      "id": "9",
+      "bbox": [
+        220,
+        486,
+        840,
+        112
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#4F9D7A",
+      "lineWidth": 2
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z25kb6xk",
+      "id": "10",
+      "bbox": [
+        238,
+        502,
+        804,
+        28
+      ],
+      "geometry": "rect",
+      "text": "数据层 Data",
+      "textPreview": "数据层 Data",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "color": "#4F9D7A",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 6,
+          "bottom": 4,
+          "left": 6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "数据层 Data"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "数据层 Data",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#4F9D7A",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "数据层 Data",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#4F9D7A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6hcrmhk3",
+      "id": "11",
+      "bbox": [
+        242,
+        542,
+        796,
+        40
+      ],
+      "geometry": "rect",
+      "text": "MySQL 核心业务数据 | Redis 缓存与临时状态",
+      "textPreview": "MySQL 核心业务数据 | Redis 缓存与临时状态",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "Microsoft YaHei",
+        "color": "#61707F",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 6,
+          "bottom": 4,
+          "left": 6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MySQL 核心业务数据 | Redis 缓存与临时状态"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MySQL 核心业务数据 | Redis 缓存与临时状态",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Microsoft YaHei",
+            "color": "#61707F",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MySQL 核心业务数据 | Redis 缓存与临时状态",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#61707F"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d8v6psfi",
+      "id": "12",
+      "bbox": [
+        638,
+        262,
+        4,
+        56
+      ],
+      "geometry": "rect",
+      "fillColor": "#17313A",
+      "lineColor": "#17313A",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/onyd0z61",
+      "id": "13",
+      "bbox": [
+        630,
+        306,
+        20,
+        20
+      ],
+      "geometry": "triangle",
+      "fillColor": "#17313A",
+      "lineColor": "#17313A",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vahoza1g",
+      "id": "14",
+      "bbox": [
+        638,
+        430,
+        4,
+        56
+      ],
+      "geometry": "rect",
+      "fillColor": "#17313A",
+      "lineColor": "#17313A",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6tovahoz",
+      "id": "15",
+      "bbox": [
+        630,
+        474,
+        20,
+        20
+      ],
+      "geometry": "triangle",
+      "fillColor": "#17313A",
+      "lineColor": "#17313A",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dg7adsji",
+      "id": "16",
+      "bbox": [
+        214,
+        632,
+        852,
+        32
+      ],
+      "geometry": "rect",
+      "text": "架构特点：前后端分离、模块边界明确，便于维护扩展和多端协同。",
+      "textPreview": "架构特点：前后端分离、模块边界明确，便于维护扩展和多端协同。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Microsoft YaHei",
+        "color": "#17212B",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 6,
+          "bottom": 4,
+          "left": 6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "架构特点：前后端分离、模块边界明确，便于维护扩展和多端协同。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "架构特点：前后端分离、模块边界明确，便于维护扩展和多端协同。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei",
+            "color": "#17212B",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "架构特点：前后端分离、模块边界明确，便于维护扩展和多端协同。",
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#17212B",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

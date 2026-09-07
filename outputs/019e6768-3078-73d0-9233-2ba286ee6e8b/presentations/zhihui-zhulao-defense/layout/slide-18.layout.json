@@ -1,0 +1,429 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/4xclzy",
+    "id": "4xclzy",
+    "slide": 18,
+    "layoutId": "539206da-4a4f-46ab-86bf-361ff0566d36",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "7ef65b4b-da45-45ac-9798-0f30afa4b94b",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "539206da-4a4f-46ab-86bf-361ff0566d36",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "7ef65b4b-da45-45ac-9798-0f30afa4b94b",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "7ef65b4b-da45-45ac-9798-0f30afa4b94b",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/svu9knih",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFF8F1",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/za1gvy90",
+      "id": "2",
+      "bbox": [
+        64,
+        48,
+        980,
+        46
+      ],
+      "geometry": "rect",
+      "text": "实时通信与积分：让服务过程可沟通、可激励、可留痕",
+      "textPreview": "实时通信与积分：让服务过程可沟通、可激励、可留痕",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 32,
+        "typeface": "Microsoft YaHei",
+        "color": "#17212B",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 5,
+          "bottom": 4,
+          "left": 5
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "实时通信与积分：让服务过程可沟通、可激励、可留痕"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "实时通信与积分：让服务过程可沟通、可激励、可留痕",
+          "resolvedTextStyle": {
+            "fontSize": 32,
+            "typeface": "Microsoft YaHei",
+            "color": "#17212B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "实时通信与积分：让服务过程可沟通、可激励、可留痕",
+              "fontSize": 32,
+              "typeface": "Microsoft YaHei",
+              "color": "#17212B",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ap4r65wj",
+      "id": "3",
+      "bbox": [
+        84,
+        140,
+        520,
+        428
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D9E2E7",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hoza1gvy",
+      "id": "4",
+      "bbox": [
+        102,
+        154,
+        484,
+        24
+      ],
+      "geometry": "rect",
+      "text": "订单级实时聊天：围绕工单沉淀沟通记录",
+      "textPreview": "订单级实时聊天：围绕工单沉淀沟通记录",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Microsoft YaHei",
+        "color": "#287C9F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 5,
+          "bottom": 4,
+          "left": 5
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "订单级实时聊天：围绕工单沉淀沟通记录"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "订单级实时聊天：围绕工单沉淀沟通记录",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei",
+            "color": "#287C9F",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "订单级实时聊天：围绕工单沉淀沟通记录",
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#287C9F",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/l0rqd4vm",
+      "id": "5",
+      "bbox": [
+        102,
+        194,
+        484,
+        360
+      ],
+      "alt": "订单级实时聊天：围绕工单沉淀沟通记录",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "7dfcf301-b655-4d12-b2c6-536ce94d5b02",
+        "contentType": "image/png",
+        "byteLength": 80641
+      }
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zidonyd0",
+      "id": "6",
+      "bbox": [
+        676,
+        140,
+        520,
+        428
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D9E2E7",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a1gvy90j",
+      "id": "7",
+      "bbox": [
+        694,
+        154,
+        484,
+        24
+      ],
+      "geometry": "rect",
+      "text": "积分激励机制：服务积分与兑换商城",
+      "textPreview": "积分激励机制：服务积分与兑换商城",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Microsoft YaHei",
+        "color": "#4F9D7A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 5,
+          "bottom": 4,
+          "left": 5
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "积分激励机制：服务积分与兑换商城"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "积分激励机制：服务积分与兑换商城",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei",
+            "color": "#4F9D7A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "积分激励机制：服务积分与兑换商城",
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#4F9D7A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/w7mp0bi9",
+      "id": "8",
+      "bbox": [
+        694,
+        194,
+        484,
+        360
+      ],
+      "alt": "积分激励机制：服务积分与兑换商城",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "3cef6ab2-e712-4960-bfed-a5f26e025d2b",
+        "contentType": "image/png",
+        "byteLength": 101363
+      }
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s72x4nap",
+      "id": "9",
+      "bbox": [
+        120,
+        620,
+        1040,
+        42
+      ],
+      "geometry": "rect",
+      "text": "真实页面展示：Socket.io 支撑服务过程沟通；积分商城把服务完成、质量反馈和持续参与连接起来。",
+      "textPreview": "真实页面展示：Socket.io 支撑服务过程沟通；积分商城把服务完成、质量反馈和持续参与连接起来。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Microsoft YaHei",
+        "color": "#17212B",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4,
+          "right": 5,
+          "bottom": 4,
+          "left": 5
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "真实页面展示：Socket.io 支撑服务过程沟通；积分商城把服务完成、质量反馈和持续参与连接起来。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "真实页面展示：Socket.io 支撑服务过程沟通；积分商城把服务完成、质量反馈和持续参与连接起来。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei",
+            "color": "#17212B",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "真实页面展示：Socket.io 支撑服务过程沟通；积分商城把服务完成、质量反馈和持续参与连接起来。",
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#17212B",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

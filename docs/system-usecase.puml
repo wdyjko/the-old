@@ -1,0 +1,87 @@
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+skinparam shadowing false
+
+actor "老人/家属用户" as Elder
+actor "志愿者" as Volunteer
+actor "管理员" as Admin
+actor "百度语音识别API" as Baidu
+
+rectangle "智慧助老平台系统" {
+  usecase "注册" as UC_Register
+  usecase "登录" as UC_Login
+  usecase "查看个人信息" as UC_Profile
+  usecase "修改个人信息" as UC_UpdateProfile
+
+  usecase "发布服务需求订单" as UC_CreateOrder
+  usecase "查看订单列表/详情" as UC_ViewOrders
+  usecase "订单沟通聊天" as UC_Chat
+  usecase "确认订单完成" as UC_Confirm
+  usecase "驳回完成申请" as UC_RejectCompletion
+  usecase "评价订单/志愿者" as UC_Rate
+
+  usecase "浏览可接订单" as UC_BrowseOrders
+  usecase "接单" as UC_AcceptOrder
+  usecase "更新订单状态" as UC_UpdateStatus
+  usecase "提交完成结果" as UC_SubmitCompletion
+
+  usecase "积分兑换奖品" as UC_Redeem
+  usecase "使用已兑换奖品" as UC_UsePrize
+
+  usecase "语音识别录入" as UC_Voice
+  usecase "调用语音识别服务" as UC_BaiduVoice
+
+  usecase "查看数据看板" as UC_Dashboard
+  usecase "审核订单" as UC_AuditOrder
+  usecase "设置积分奖励" as UC_SetPoints
+  usecase "管理用户状态" as UC_ManageUsers
+  usecase "删除用户" as UC_DeleteUser
+  usecase "修改订单信息" as UC_EditOrder
+  usecase "删除订单" as UC_DeleteOrder
+
+  usecase "奖励志愿者积分" as UC_AwardPoints
+}
+
+Elder --> UC_Register
+Elder --> UC_Login
+Elder --> UC_Profile
+Elder --> UC_UpdateProfile
+Elder --> UC_CreateOrder
+Elder --> UC_ViewOrders
+Elder --> UC_Chat
+Elder --> UC_Confirm
+Elder --> UC_RejectCompletion
+Elder --> UC_Rate
+Elder --> UC_Redeem
+Elder --> UC_UsePrize
+Elder --> UC_Voice
+
+Volunteer --> UC_Register
+Volunteer --> UC_Login
+Volunteer --> UC_Profile
+Volunteer --> UC_UpdateProfile
+Volunteer --> UC_BrowseOrders
+Volunteer --> UC_ViewOrders
+Volunteer --> UC_AcceptOrder
+Volunteer --> UC_UpdateStatus
+Volunteer --> UC_SubmitCompletion
+Volunteer --> UC_Chat
+
+Admin --> UC_Login
+Admin --> UC_Dashboard
+Admin --> UC_AuditOrder
+Admin --> UC_SetPoints
+Admin --> UC_ManageUsers
+Admin --> UC_DeleteUser
+Admin --> UC_EditOrder
+Admin --> UC_DeleteOrder
+Admin --> UC_ViewOrders
+
+UC_SubmitCompletion ..> UC_UpdateStatus : <<include>>
+UC_Confirm ..> UC_AwardPoints : <<include>>
+UC_AuditOrder ..> UC_SetPoints : <<include>>
+UC_Voice ..> UC_BaiduVoice : <<include>>
+
+Baidu --> UC_BaiduVoice
+@enduml
