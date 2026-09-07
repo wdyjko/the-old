@@ -10,7 +10,15 @@ export const getSocket = () => {
     }
 
     if (!socket) {
-        socket = io('http://localhost:5000', {
+        // Socket.io 必须用完整 URL
+        // 线上环境请在 Vercel 的环境变量里配置 VITE_SOCKET_URL=https://你的后端域名
+        // 本地开发时 fallback 到 vite proxy (localhost:5173) 走 ws 代理
+        const socketUrl = import.meta.env.VITE_SOCKET_URL ||
+            (import.meta.env.DEV
+                ? window.location.origin
+                : window.location.origin);
+
+        socket = io(socketUrl, {
             transports: ['websocket'],
             auth: { token },
         });
