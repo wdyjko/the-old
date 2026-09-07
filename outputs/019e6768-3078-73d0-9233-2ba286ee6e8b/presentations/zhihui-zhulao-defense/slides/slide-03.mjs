@@ -1,7 +1,0 @@
-const C={ink:"#17212B",muted:"#61707F",bg:"#FFF8F1",orange:"#F28C38",blue:"#287C9F",green:"#4F9D7A",line:"#D9E2E7"};
-function bg(slide,ctx){ctx.addShape(slide,{x:0,y:0,w:ctx.W,h:ctx.H,fill:C.bg});}
-function t(slide,ctx,text,x,y,w,h,s=24,color=C.ink,bold=false,align="left"){return ctx.addText(slide,{text,x,y,w,h,fontSize:s,color,bold,align,insets:{left:5,right:5,top:3,bottom:3},typeface:"Microsoft YaHei"});}
-function item(slide,ctx,n,title,desc,x,y,color){ctx.addShape(slide,{x,y,w:485,h:78,fill:"#FFFFFF",line:ctx.line(C.line,1)});ctx.addShape(slide,{x:x+18,y:y+18,w:42,h:42,fill:color,line:ctx.line(color,0),geometry:"ellipse"});t(slide,ctx,n,x+18,y+24,42,24,17,"#fff",true,"center");t(slide,ctx,title,x+78,y+13,170,25,20,C.ink,true);t(slide,ctx,desc,x+78,y+42,370,24,15,C.muted);}
-export async function slide03(presentation, ctx){const slide=presentation.slides.add();bg(slide,ctx);t(slide,ctx,"答辩内容",64,46,360,48,34,C.ink,true);t(slide,ctx,"围绕“为什么做、怎么设计、如何实现、效果如何”展开",66,112,620,30,18,C.muted);
- const data=[["01","研究背景与意义","养老服务需求与平台建设价值",80,170,C.orange],["02","国内外研究现状","现有研究启示与不足",715,170,C.blue],["03","技术架构与选型","前后端分离与实时通信方案",80,270,C.green],["04","系统需求分析","三类角色与核心业务流程",715,270,C.orange],["05","系统详细设计","功能模块、数据库与状态字典",80,370,C.blue],["06","系统实现与展示","登录、三端功能与数据看板",715,370,C.green],["07","系统测试","功能、流程与异常场景验证",80,470,C.orange],["08","总结与展望","成果、创新点与后续优化",715,470,C.blue]];
- data.forEach(d=>item(slide,ctx,...d)); t(slide,ctx,"重点汇报：系统设计与实现约占 40%",420,625,440,30,18,C.ink,true,"center");return slide;}
