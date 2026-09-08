@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "http://frp-use.com:44898/api/:path*"
+      "destination": "https://frp-use.com:44898/api/:path*"
     }
   ]
 }

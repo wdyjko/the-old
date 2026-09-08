@@ -19,7 +19,7 @@ export const getSocket = () => {
                 : window.location.origin);
 
         socket = io(socketUrl, {
-            transports: ['websocket'],
+            transports: ['polling', 'websocket'],
             auth: { token },
         });
     }
