@@ -1,8 +1,8 @@
 import { Request, Response } from 'express';
 import https from 'https';
 
-const API_KEY = 'YowYZOKyne8t9zJ2Gx8wAi9u';
-const SECRET_KEY = 'PEVzQGrsW1QD13gMseJE8Fng5MOXPi2U';
+const API_KEY = process.env.BAIDU_API_KEY || 'YowYZOKyne8t9zJ2Gx8wAi9u';
+const SECRET_KEY = process.env.BAIDU_SECRET_KEY || 'PEVzQGrsW1QD13gMseJE8Fng5MOXPi2U';
 
 // Utility for native HTTPS request that returns a promise
 const requestHttps = (url: string, options: https.RequestOptions, postData?: string): Promise<any> => {
